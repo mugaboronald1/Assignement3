@@ -1,16 +1,38 @@
-# authapp
+## Authentication App
 
-A new Flutter project.
+## Overview
+This app is designed to demonstrate the implementation of several key Android features including Broadcast Receivers, Shared Preferences, and Authentication APIs. The app has the following functionalities:
 
-## Getting Started
+- Detecting Internet connectivity and showing a toast message on connectivity changes.
+- Creating a BroadcastReceiver to notify the user with a toast and ring when the battery reaches a specified threshold while charging.
+- Implementing Shared Preferences to toggle between Light and Dark Mode.
+- Providing authentication through Email and Password as well as Social Media Authentication.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Internet Connectivity Detection
+The app detects changes in Internet connectivity and displays a toast message accordingly.
+- Implementation involves creating a BroadcastReceiver that listens to connectivity changes and responds with the appropriate message.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Battery Threshold BroadcastReceiver
+The app has a BroadcastReceiver that monitors the battery level.
+- When the battery level reaches 90% while charging, the app will toast a message and ring to notify the user.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Shared Preferences
+The app allows the user to toggle between Light Mode and Dark Mode.
+- The user's preference is saved using Shared Preferences and persists across app launches.
+
+### 4. Authentication API
+
+#### Email and Password Authentication
+- Users can sign up and sign in using their email and password.
+- Firebase Authentication is used to handle email and password sign-up and sign-in processes.
+
+#### Social Media Authentication
+- The app provides options for users to authenticate via social media platforms like Google and Facebook.
+- Firebase Authentication handles the integration and user management for social media logins.
+
+<img width="505" alt="image" src="https://github.com/mugaboronald1/Assignement3/assets/99381533/78bc84c6-7f5e-4c86-84fb-9feb49ddb050">
+
+
+
