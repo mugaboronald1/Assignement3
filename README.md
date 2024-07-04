@@ -33,6 +33,10 @@ The app allows the user to toggle between Light Mode and Dark Mode.
 - Firebase Authentication handles the integration and user management for social media logins.
 
 <img width="505" alt="image" src="https://github.com/mugaboronald1/Assignement3/assets/99381533/78bc84c6-7f5e-4c86-84fb-9feb49ddb050">
+<img width="737" alt="image" src="https://github.com/mugaboronald1/Assignement3/assets/99381533/b8864086-e404-487c-94e2-ebeb06ccadb7">
+<img width="494" alt="image" src="https://github.com/mugaboronald1/Assignement3/assets/99381533/71a1a148-f2f0-4693-ab8f-45e382d48b93">
+
+
 
 
 
