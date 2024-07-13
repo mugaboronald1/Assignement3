@@ -39,6 +39,10 @@ The app allows the user to toggle between Light Mode and Dark Mode.
 
 
 <img width="737" alt="image" src="https://github.com/mugaboronald1/Assignement3/assets/99381533/b8864086-e404-487c-94e2-ebeb06ccadb7">
+<img width="534" alt="light dark" src="https://github.com/user-attachments/assets/367f7fc7-1182-416b-bf79-dc0949644d85">
+<img width="377" alt="image" src="https://github.com/user-attachments/assets/7e0c52b9-36de-422a-b3e1-c0e86ae41196">
+
+
 
 
 
